@@ -3,6 +3,7 @@ module.exports = {
     screens: {},
     colors: {
       green: '#75a343',
+      newGreen: '#54A312',
       white: '#FFFFFF',
       black: '#000000',
       grey: '#f5f6fa',
